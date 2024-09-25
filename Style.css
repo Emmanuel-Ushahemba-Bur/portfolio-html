@@ -1,0 +1,31 @@
+h1, h2, h3 {
+    color: rgb(34, 34, 126);
+    font-family: "Sacramento", cursive;
+}
+
+.gradient-background {
+    background-color: rgb(146, 146, 236);
+}
+.main {
+    border-radius: 50%;
+    border: 2px solid rgb(34, 34, 126);
+    
+}
+p, ol {
+    color: rgb(34, 34, 126);
+    font-family: Merriweather, serif;
+}
+.gold {
+    margin-left: 10%;
+
+}
+.book {
+    border: 2px solid rgb(63, 63, 165);
+    border-radius: 25%;
+    margin-bottom: 10px;
+
+}
+.coding {
+    margin-right: 10px;
+    border-radius: 10px;
+}
